@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\bin\Debug\Spidey Study.exe.config
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\bin\Debug\Spidey Study.exe
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\bin\Debug\Spidey Study.pdb
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\bin\Debug\Interop.WMPLib.dll
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\obj\Debug\Spidey Study.csproj.AssemblyReference.cache
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\obj\Debug\Spidey Study.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\obj\Debug\Interop.WMPLib.dll
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\obj\Debug\Spidey Study.csproj.ResolveComReference.cache
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\obj\Debug\SpiderManPomodoroApp.Form1.resources
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\obj\Debug\Spidey_Study.Properties.Resources.resources
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\obj\Debug\Spidey Study.csproj.GenerateResource.cache
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\obj\Debug\Spidey Study.csproj.CoreCompileInputs.cache
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\obj\Debug\Spidey Study.exe
+C:\Users\Sophie\source\repos\Spidey Study\Spidey Study\obj\Debug\Spidey Study.pdb
